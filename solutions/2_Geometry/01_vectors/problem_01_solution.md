@@ -1,17 +1,41 @@
-## Question
+# Exercise 1 — Vector Operations and Their Meaning
 
-For $u=(2,-1,3)$ and $v=(-1,4,2)$, compute $u+v$, $u-v$, and $3u-2v$; verify $(u+v)-v=u$ and explain vector addition geometrically.
+[Exercise sheet](../../../exercises/2_Geometry/01_vectors_en.md)
+
+## Problem
+
+For $u=(2,-1,3)$ and $v=(-1,4,2)$ compute
+
+$$
+u+v,\qquad u-v,\qquad 3u-2v.
+$$
+
+Then verify that $(u+v)-v=u$, and explain geometrically what adding two vectors means.
+
+## Method
+
+Use coordinatewise vector arithmetic, then verify the inverse addition operation.
 
 ## Solution
 
 Vector operations are performed coordinate by coordinate:
 
-$$u+v=(1,3,5),\qquad u-v=(3,-5,1),$$
+$$
+u+v=(1,3,5),\qquad u-v=(3,-5,1),
+$$
 
-$$3u-2v=(6,-3,9)-(-2,8,4)=(8,-11,5).$$
+$$
+3u-2v=(6,-3,9)-(-2,8,4)=(8,-11,5).
+$$
 
 The requested check gives
 
-$$(u+v)-v=(1,3,5)-(-1,4,2)=(2,-1,3)=u.$$
+$$
+(u+v)-v=(1,3,5)-(-1,4,2)=(2,-1,3)=u.
+$$
 
 Geometrically, adding vectors means placing the tail of the second vector at the head of the first; the sum is the displacement from the original tail to the final head (equivalently, the diagonal of the parallelogram).
+
+## Verification
+
+The reconstruction $(u+v)-v=u$ checks the sum. Also $(u-v)+v=u$, and $3u-(3u-2v)=2v$, checking the other two operations.
