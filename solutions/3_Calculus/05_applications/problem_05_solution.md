@@ -30,7 +30,7 @@ $$
 
 Velocity is $s'(t)$, so its integral is $s(5)-s(0)$ by the fundamental theorem of calculus. The units are $(\mathrm{m/s})\cdot\mathrm s=\mathrm m$.
 
-If velocity took negative values, the same signed integral would still give displacement. Actual distance would instead be $\int_0^5|v(t)|\,dt$, splitting at velocity zeros when necessary. Negative-direction travel adds positive distance rather than canceling earlier travel.
+If velocity took negative values, the same signed integral would still give displacement. Actual distance would instead be $\int_0^5|v(t)|\ dt$, splitting at velocity zeros when necessary. Negative-direction travel adds positive distance rather than canceling earlier travel.
 
 ## Verification
 

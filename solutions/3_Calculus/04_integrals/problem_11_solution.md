@@ -6,9 +6,9 @@
 
 For each integral, first write which method you choose and how you recognize it, and then compute:
 
-1. $\int\sin(3x)\,dx$,
-2. $\int x\ln x\,dx$,
-3. $\int\frac{x}{\sqrt{x^2+1}}\,dx$.
+1. $\int\sin(3x)\ dx$,
+2. $\int x\ln x\ dx$,
+3. $\int\frac{x}{\sqrt{x^2+1}}\ dx$.
 
 ## Method
 
@@ -22,7 +22,7 @@ $$
 \int\sin(3x)\,dx=-\frac13\cos(3x)+C_1.
 $$
 
-**2. Integration by parts.** For $x\ln x$, choose $u=\ln x$ and $dv=x\,dx$. Then $du=dx/x$ and $v=x^2/2$:
+**2. Integration by parts.** For $x\ln x$, choose $u=\ln x$ and $dv=x\ dx$. Then $du=dx/x$ and $v=x^2/2$:
 
 $$
 \begin{aligned}
@@ -32,7 +32,7 @@ $$
 \end{aligned}
 $$
 
-**3. Inner substitution.** For $x/\sqrt{x^2+1}$, choose $u=x^2+1$ and $du=2x\,dx$:
+**3. Inner substitution.** For $x/\sqrt{x^2+1}$, choose $u=x^2+1$ and $du=2x\ dx$:
 
 $$
 \int\frac{x}{\sqrt{x^2+1}}\,dx

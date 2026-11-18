@@ -20,7 +20,7 @@ Use the inner square as a substitution, accounting for the factor of two in its 
 
 As in Problem 4, the integrand is a function of an inner expression multiplied by a constant multiple of that inner expression's derivative. Here the inner expression is $x^2$, whose derivative is $2x$.
 
-Set $u=x^2$, so $du=2x\,dx$ and $x\,dx=\tfrac12du$. Then
+Set $u=x^2$, so $du=2x\ dx$ and $x\ dx=\tfrac12du$. Then
 
 $$
 \int xe^{x^2}\,dx=\frac12\int e^u\,du

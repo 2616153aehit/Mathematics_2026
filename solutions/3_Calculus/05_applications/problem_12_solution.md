@@ -4,7 +4,7 @@
 
 ## Problem
 
-A museum wants to create a rectangular exhibition room next to an existing straight wall. The side along the wall does not need to be built. The remaining three sides are to be constructed to two different standards: the two sides perpendicular to the wall cost $300\ \mathrm{PLN/m}$ each, while the side parallel to the wall costs $500\ \mathrm{PLN/m}$. The budget is $30\,000\ \mathrm{PLN}$.
+A museum wants to create a rectangular exhibition room next to an existing straight wall. The side along the wall does not need to be built. The remaining three sides are to be constructed to two different standards: the two sides perpendicular to the wall cost $300\ \mathrm{PLN/m}$ each, while the side parallel to the wall costs $500\ \mathrm{PLN/m}$. The budget is $30\ 000\ \mathrm{PLN}$.
 
 Build a model that maximizes the area of the room and prepare a complete analysis containing:
 
@@ -53,7 +53,7 @@ $$
 A(x)=750-\frac65(x-25)^2\le750.
 $$
 
-**Result:** build two perpendicular sides of $25$ m and one parallel side of $30$ m, giving a maximum area of $750\,\mathrm m^2$. The cost is $2\cdot300\cdot25+500\cdot30=30000$ PLN.
+**Result:** build two perpendicular sides of $25$ m and one parallel side of $30$ m, giving a maximum area of $750\ \mathrm m^2$. The cost is $2\cdot300\cdot25+500\cdot30=30000$ PLN.
 
 Choosing the two variables, counting the charged walls, and writing $600x+500y=30000$ are the modeling decisions. Substitution, differentiation, and solving the stationary equation execute that model. The graph and numerical calculations below are checks made after the mathematical optimum has been established.
 

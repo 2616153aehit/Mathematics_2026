@@ -18,7 +18,7 @@ Recognize a derivative divided by its original expression and substitute the den
 
 ## Solution
 
-Let $u=x^2+5$. Its derivative is $du=2x\,dx$, exactly the numerator times $dx$. Therefore
+Let $u=x^2+5$. Its derivative is $du=2x\ dx$, exactly the numerator times $dx$. Therefore
 
 $$
 \int\frac{2x}{x^2+5}\,dx

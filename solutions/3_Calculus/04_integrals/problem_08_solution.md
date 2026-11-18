@@ -14,7 +14,7 @@ Before calculating, justify why it is convenient to differentiate $x$ and integr
 
 ## Method
 
-Use integration by parts with $u=x$ and $dv=\cos x\,dx$, so differentiating the polynomial simplifies the remaining integral.
+Use integration by parts with $u=x$ and $dv=\cos x\ dx$, so differentiating the polynomial simplifies the remaining integral.
 
 ## Solution
 

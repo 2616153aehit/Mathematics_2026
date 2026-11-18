@@ -4,7 +4,7 @@
 
 ## Problem
 
-From a $30\,\mathrm{cm}\times40\,\mathrm{cm}$ sheet, squares of side length $x$ are cut from the corners and the edges are folded up to form an open box.
+From a $30\ \mathrm{cm}\times40\ \mathrm{cm}$ sheet, squares of side length $x$ are cut from the corners and the edges are folded up to form an open box.
 
 Write the volume as a function of $x$, determine the physically meaningful domain, and find the value of $x$ for which the volume is greatest.
 
@@ -35,7 +35,7 @@ $$
 
 The derivative is positive before $x_*$ and negative after it throughout the feasible domain. Also $V(x)$ tends to zero at both domain ends, so this interior maximum is global. The larger root, about $17.676$, would produce a negative base dimension and is rejected.
 
-The optimal base is approximately $18.6852\,\mathrm{cm}\times28.6852\,\mathrm{cm}$, and the maximum volume is approximately $3032.30\,\mathrm{cm}^3$.
+The optimal base is approximately $18.6852\ \mathrm{cm}\times28.6852\ \mathrm{cm}$, and the maximum volume is approximately $3032.30\ \mathrm{cm}^3$.
 
 ![Only cut sizes between 0 and 15 cm are physically valid; the interior peak gives the optimal box.](figures/box_volume.svg)
 

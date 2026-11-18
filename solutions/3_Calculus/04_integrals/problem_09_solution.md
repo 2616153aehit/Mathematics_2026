@@ -41,4 +41,4 @@ The lower triangle contributes negatively to the integral and positively to geom
 
 ## Verification
 
-Direct splitting gives $\int_{-1}^0x\,dx=-1/2$ and $\int_0^2x\,dx=2$. Their sum is $3/2$, whereas the sum of their absolute values is $5/2$.
+Direct splitting gives $\int_{-1}^0x\ dx=-1/2$ and $\int_0^2x\ dx=2$. Their sum is $3/2$, whereas the sum of their absolute values is $5/2$.

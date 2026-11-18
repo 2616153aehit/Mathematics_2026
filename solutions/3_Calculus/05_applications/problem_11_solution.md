@@ -28,7 +28,7 @@ $$
 A(x)=\pi y^2=\pi(\sqrt x)^2=\pi x.
 $$
 
-A thin disk has volume approximately $A(x)\,dx$, so summing all slices gives
+A thin disk has volume approximately $A(x)\ dx$, so summing all slices gives
 
 $$
 V=\int_0^4\pi x\,dx
